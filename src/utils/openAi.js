@@ -1,7 +1,7 @@
 const Groq = require("groq-sdk");
 
 const openai = new Groq({
-  apiKey: "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",
+  apiKey: process.env.REACT_APP_API_KEY,
  
   dangerouslyAllowBrowser: true,
 });
