@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Netflix GPT
 
 ## Overview
@@ -108,11 +107,7 @@ Netflix GPT is a dynamic web application that integrates GPT-powered movie recom
 
 
 
-**Author**: Taniya Kamboj
+**Author**: Abhishek Kamboj
 
 If you have any questions, feel free to reach out or contribute to the project!
 
-=======
-# Netflix-GPT
-Netflix clone with AI movie recommendations. Built using React.js and TMDB API. Users can search movies, get AI-powered suggestions, and browse movies with Netflix-like interface. Simple and responsive design.
->>>>>>> 9365a8cbeeb6badbf67453a12d9b5d07f5dec830
