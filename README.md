@@ -66,7 +66,7 @@ Netflix GPT is a dynamic web application that integrates GPT-powered movie recom
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/taniyakamboj15/netflix-gpt.git
+   git clone https://github.com/Abhishek130900
    ```
 2. Navigate to the project directory:
    ```bash
